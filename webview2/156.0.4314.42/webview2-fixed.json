@@ -1,0 +1,15 @@
+{
+  "component": "webview2-fixed",
+  "version": "156.0.4314.42",
+  "architecture": "x64",
+  "archive": "Socle_WebView2-156.0.4314.42_Windows-x64.zip",
+  "sha256": "42dc4b13d8a79e7296692d684908c27e32863db432a103e2042b587fb64571b2",
+  "bytes": 309752473,
+  "file_count": 257,
+  "expanded_bytes": 706167729,
+  "files_sha256": "489513c014a3f957444686213e69594ffc06e01c0450352ef0093adecb8b02d4",
+  "layout": "runtime/webview2/ — à extraire dans le dossier wad/ de l'application",
+  "source": "wad/runtime/webview2 du pack qualifié Pesto_V2_PROD_2.0.9.zip (SHA-256 605052194e31db5dc48af50384a0596034ab55fb6397662be73804f8ec94eb34, release M4D135/pesto v2.0.9)",
+  "signatures": "39 binaires PE, Authenticode valide (chaînes Microsoft Code Signing PCA 2024 / Windows Code Signing PCA 2024 / Third Party Component CA 2013)",
+  "license_source": "https://developer.microsoft.com/microsoft-edge/api/eula/webview2?locale=en-us&fixed=true"
+}
